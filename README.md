@@ -1,7 +1,7 @@
 # Double Pendulum Simulator (C++ / SFML)
 
-### 📖 [Read the Story: My Scientific Worldview Broke When I Tried to Build This](https://open.substack.com/pub/ayhamnotes/p/my-scientific-worldview-broke-when)
-### 🧠 [Read the Engineering Logs](./DEVLOG.md)
+### [Read the Story: My Scientific Worldview Broke When I Tried to Build This](https://open.substack.com/pub/ayhamnotes/p/my-scientific-worldview-broke-when)
+### [Read the Engineering Logs](./DEVLOG.md)
 
 ![Double Pendulum Demo](demo.gif)
 

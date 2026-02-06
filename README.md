@@ -3,7 +3,9 @@
 ### [Read the Story: My Scientific Worldview Broke When I Tried to Build This](https://open.substack.com/pub/ayhamnotes/p/my-scientific-worldview-broke-when)
 ### [Read the Engineering Logs](./DEVLOG.md)
 
-![Double Pendulum Demo](demo.gif)
+
+https://github.com/user-attachments/assets/971b710b-4b3b-4e0b-b545-1ea96fc53646
+
 
 A high-precision physics simulation that visualizes the chaotic motion of a double pendulum using C++ and SFML. 
 

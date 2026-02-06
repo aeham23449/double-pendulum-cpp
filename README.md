@@ -4,7 +4,8 @@
 ### [Read the Engineering Logs](./DEVLOG.md)
 
 
-https://github.com/user-attachments/assets/971b710b-4b3b-4e0b-b545-1ea96fc53646
+
+https://github.com/user-attachments/assets/70f9570d-6288-4d5c-8ddf-f5212347ea06
 
 
 A high-precision physics simulation that visualizes the chaotic motion of a double pendulum using C++ and SFML. 
